@@ -1,18 +1,18 @@
 {
-  "name": "clapper-playback-speed-plugin-extended",
+  "name": "clapper-playback-speed-electron",
   "keywords": [
     "clappr",
     "plugin"
   ],
-  "version": "1.5.0",
-  "main": "index.js",
+  "version": "1.5.1",
+  "main": "dist/main.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lethea/clapper-playback-speed-plugin-extended.git"
+    "url": "git+https://github.com/lindalberto-rufino-rt7/clapper-playback-speed-electron.git"
   },
   "license": "MIT",
   "contributors": [
-    "Emre Karataşoğlu <emre.karatasoglu@hotmail.com>"
+    "Lindalberto Filho  <lindalberto.rufino@rt7.com.br>"
   ],
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --mode development --config webpack.config.dev.js",
@@ -46,10 +46,10 @@
     "webpack-dev-server": "3.1.3",
     "webpack-merge": "4.1.2"
   },
-  "description": "This is extended version of https://github.com/Viewly/clappr-playback-speed",
+  "description": "This is extended version of https://github.com/Lethea/clapper-playback-speed-plugin-extended",
   "bugs": {
-    "url": "https://github.com/Lethea/clapper-playback-speed-plugin-extended/issues"
+    "url": "https://github.com/lindalberto-rufino-rt7/clapper-playback-speed-electron/issues"
   },
-  "homepage": "https://github.com/Lethea/clapper-playback-speed-plugin-extended#readme",
-  "author": "Emre Karataşoğlu"
+  "homepage": "https://github.com/lindalberto-rufino-rt7/clapper-playback-speed-electron#readme",
+  "author": "Lindalberto Filho"
 }
