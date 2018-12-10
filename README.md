@@ -1,14 +1,16 @@
-# clapper-playback-speed-plugin-extended
-Project Url : https://github.com/Lethea/clapper-playback-speed-plugin-extended
+# clapper-playback-speed-electron
+    Adapted for electron
+
+Project Url : https://github.com/lindalberto-rufino-rt7/clapper-playback-speed-electron
 
 Plugin for [Clappr](https://github.com/clappr/clappr)
 
-## Requirements
+Extended from [ClapprPlaybackSpeedPluginExtended](https://github.com/Lethea/clapper-playback-speed-plugin-extended)
 
 ## Development
 For npmjs
 npm i clapper-playback-speed-plugin-extended
-open folder node_modules/clapper-playback-speed-plugin-extended 
+open folder node_modules/clapper-playback-speed-electron 
 ```sh
 yarn install
 yarn dev
@@ -51,8 +53,7 @@ new Clappr.Player({
 
 
 ## Support
-emre.karatasoglu@hotmail.com
+lindalberto.rufinO@rt7.com.br
 
 
-
-This is extended version of https://github.com/Viewly/clappr-playback-speed
+This is extended version of https://github.com/Lethea/clapper-playback-speed-plugin-extended
